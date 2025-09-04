@@ -1,3 +1,4 @@
+//Instruction Fetch Unit
 module IFU (
     input clk,
     input reset,
